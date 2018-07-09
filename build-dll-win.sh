@@ -1,0 +1,1 @@
+i686-w64-mingw32-g++ -o main-win32.dll main-win32.cpp -mdll -O3

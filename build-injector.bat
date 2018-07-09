@@ -1,0 +1,1 @@
+g++ injector.cpp -o injector.exe
